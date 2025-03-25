@@ -14,15 +14,15 @@ profiles:
     content: about_aitzaz.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Aitzaz Imtiaz</p>
+      <p>Aitzaz</p>
       <p>Member of the Broke Consortium</p>
       <p>Project Owner</p>
   - align: left
-    image: prof_pic.jpg
-    content: about.md
+    image: arsla.png
+    content: about_arsla.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Arsla</p>
+      <p>Ally of the Broke Consortium</p>
+      <p>Lead Worker, Student</p>
 ---
